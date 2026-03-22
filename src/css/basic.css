@@ -45,6 +45,12 @@ body {
 }
 
 @media screen and (min-width: 48rem) {
+  body {
+    height: 100%;
+    gap: 4.6rem;
+    padding: 16.2rem 6.7rem;
+  }
+  
   .header {
     flex-direction: row;
   }
