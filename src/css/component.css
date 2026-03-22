@@ -1,0 +1,94 @@
+/* Text top-section */
+
+.main-heading {
+  font-size: 2.4rem;
+  line-height: 115%;
+  letter-spacing: -0.025em;
+  font-weight: bold;
+
+  color: var(--teal-dark);
+}
+
+.cta-text {
+  font-size: 1.8rem;
+  line-height: 115%;
+  letter-spacing: -0.025em;
+  font-weight: bold;
+
+  color: var(--green);
+}
+
+.main-description {
+  font-size: 1.6rem;
+  line-height: 165%;
+  letter-spacing: -0.05rem;
+  font-weight: 400;
+
+  color: var(--gray);
+}
+
+/* Text bottom-left section */
+
+.monthly-text {
+  font-size: 1.8rem;
+  line-height: 115%;
+  letter-spacing: -0.025rem;
+  font-weight: bold;
+}
+
+.price-value {
+  font-size: 3.2rem;
+  line-height: 115%;
+  letter-spacing: -0.04rem;
+  font-weight: bold;
+}
+
+.price-text {
+  font-size: 1.6rem;
+  line-height: 165%;
+  letter-spacing: -0.05rem;
+  font-weight: 300;
+
+  opacity: 0.5;
+}
+
+.price-extra-text {
+  font-size: 1.6rem;
+  line-height: 165%;
+  letter-spacing: -0.05rem;
+  font-weight: 400;
+}
+
+.sign-up-btn {
+  width: 100%;
+  padding: 0.8rem;
+  height: 4.8rem;
+  background-color: var(--green);
+  color: var(--white);
+  border-radius: 5px;
+
+  font-size: 1.6rem;
+  line-height: 145%;
+  letter-spacing: -0.025rem;
+  font-weight: 600;
+
+  box-shadow: 0 10px 10px rgba(0,0,0, 0.097);
+}
+
+/* Text bottom-right section */
+
+.why-heading {
+  font-size: 1.8rem;
+  line-height: 115%;
+  letter-spacing: -0.025rem;
+  font-weight: bold;
+}
+
+.why-text {
+  font-size: 1.4rem;
+  line-height: 145%;
+  letter-spacing: 0;
+  font-weight: 300;
+
+  opacity: 0.75;
+}
